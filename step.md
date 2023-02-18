@@ -1,6 +1,6 @@
 PROJECT DOCUMENTATION
 -----------------------------------------------------------------------------------------------
-Project:Deploying Wordpress and Mysql with Persistent Volume on Kubernetes
+Project: Deploying Wordpress and Mysql with Persistent Volume on Kubernetes
 ________________________________________________________________________________________________
 Steps1: Lauching EC2 instance, installation and configuration of Apache web server and PHP.
 
